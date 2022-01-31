@@ -5,7 +5,10 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>discovery-service</module>
-	</modules>
+		<module>product-service</module>
+        <module>cloud-common</module>
+        <module>front-service</module>
+    </modules>
 
 
 	<parent>
